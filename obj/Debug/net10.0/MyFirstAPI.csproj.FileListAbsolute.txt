@@ -31,3 +31,4 @@ C:\Users\gsvsb\Desktop\LearningJourney\MyFirstAPI\obj\Debug\net10.0\refint\MyFir
 C:\Users\gsvsb\Desktop\LearningJourney\MyFirstAPI\obj\Debug\net10.0\MyFirstAPI.pdb
 C:\Users\gsvsb\Desktop\LearningJourney\MyFirstAPI\obj\Debug\net10.0\MyFirstAPI.genruntimeconfig.cache
 C:\Users\gsvsb\Desktop\LearningJourney\MyFirstAPI\obj\Debug\net10.0\ref\MyFirstAPI.dll
+C:\Users\gsvsb\Desktop\LearningJourney\MyFirstAPI\obj\Debug\net10.0\MyFirstAPI.sourcelink.json
