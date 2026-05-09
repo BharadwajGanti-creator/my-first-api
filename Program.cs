@@ -10,7 +10,8 @@ builder.Services.AddSwaggerGen();
 
 // Add Database
 builder.Services.AddDbContext<AppDbContext>(options =>
-    options.UseSqlServer("Server=(localdb)\\mssqllocaldb;Database=MyFirstApiDb;Trusted_Connection=true;"));
+    
+options.UseSqlite("Data Source=myapp.db"));
 
 var app = builder.Build();
 
